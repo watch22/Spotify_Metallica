@@ -1,0 +1,108 @@
+"artist_name","album_name","track_number","track_name","speechiness","instrumentalness","acousticness","valence","energy","danceability","loudness","tempo","time_signature","duration_min","key_mode","track_id","album_release_year"
+"Metallica","Kill 'Em All ",1,"Hit The Lights",0.205,0.187,4.79e-05,0.278,0.97,0.264,-5.526,160.727,4,4.2644,"E minor","4hh0IO5OHTigfnPTpDleL7",1983
+"Metallica","Kill 'Em All ",2,"The Four Horsemen",0.408,0.0765,0.00157,0.327,0.938,0.224,-6.907,203.79,4,7.2091,"C major","5RrnDgjoFxDINI5aFQPZXt",1983
+"Metallica","Kill 'Em All ",3,"Motorbreath",0.157,0.0515,0.000121,0.347,0.934,0.289,-6.085,173.872,4,3.1307,"C# major","6RqEJvpEzzlwj8g0wKG1ln",1983
+"Metallica","Kill 'Em All ",4,"Jump In The Fire",0.106,0.0118,0.00606,0.659,0.908,0.29,-5.677,178.359,4,4.6882,"F minor","4fVBFyglBhMf0erfF7pBJp",1983
+"Metallica","Kill 'Em All ",5,"(Anesthesia) Pulling Teeth",0.0729,0.822,0.000551,0.15,0.887,0.176,-7.585,99.206,4,4.2427,"G major","4hsJQXAXPbni5QyChVzVsD",1983
+"Metallica","Kill 'Em All ",6,"Whiplash",0.0983,0.422,0.000611,0.192,0.916,0.384,-6.468,158.042,4,4.1424,"E minor","38fIaph07Kd8ZIN6l17ZJs",1983
+"Metallica","Kill 'Em All ",7,"Phantom Lord",0.309,0.0308,0.000733,0.129,0.975,0.21,-5.302,159.384,4,5.0216,"C# minor","5R5b3EZkGsYsZz2XdUNrXI",1983
+"Metallica","Kill 'Em All ",8,"No Remorse",0.162,0.358,0.000309,0.239,0.916,0.297,-5.975,96.773,4,6.4427,"E minor","2uQBTkujGFuwUnA0fi5Qnb",1983
+"Metallica","Kill 'Em All ",9,"Seek & Destroy",0.282,0.0132,0.037,0.448,0.964,0.445,-5.493,140.817,4,6.912,"A major","28WmNsclKsrVmdv3tDmoYU",1983
+"Metallica","Kill 'Em All ",10,"Metal Militia",0.142,0.00724,8.66e-05,0.235,0.957,0.166,-5.323,175.828,4,5.1911,"A major","2TBRfDnfwsOIaGxkkXFBN2",1983
+"Metallica","Ride The Lightning ",1,"Fight Fire With Fire",0.111,0.728,3.75e-05,0.133,0.988,0.283,-7.017,90.791,4,4.7418,"C major","6ckozbGmOusAnLT2LEbERy",1984
+"Metallica","Ride The Lightning ",2,"Ride The Lightning",0.175,0.1,6.07e-05,0.276,0.975,0.257,-6.128,149.312,4,6.6164,"A major","4d50VgYqfw1Rd0knRRL3qv",1984
+"Metallica","Ride The Lightning ",3,"For Whom The Bell Tolls",0.0672,0.00349,0.00563,0.249,0.858,0.518,-6.147,117.897,4,5.1662,"C major","2dXsILW8gzkosqleHAvl0v",1984
+"Metallica","Ride The Lightning ",4,"Fade To Black",0.113,0.234,0.00369,0.28,0.924,0.256,-6.685,113.574,4,6.9538,"G major","7866E49sLyI938dEqxi8a4",1984
+"Metallica","Ride The Lightning ",5,"Trapped Under Ice",0.203,0.0451,8.81e-05,0.0529,0.988,0.252,-5.291,162.945,4,4.0678,"A major","3J8jTThxk8GtxyoupHtyrb",1984
+"Metallica","Ride The Lightning ",6,"Escape",0.0952,0.498,0.00144,0.541,0.941,0.257,-5.864,144.142,4,4.3978,"E major","6Kjwg4dmlA5UUqOvWXbiar",1984
+"Metallica","Ride The Lightning ",7,"Creeping Death",0.169,0.257,0.000249,0.166,0.977,0.29,-5.487,100.919,4,6.5951,"E major","4CLRLdxUDPNeO1xCW0U2zC",1984
+"Metallica","Ride The Lightning ",8,"The Call Of Ktulu",0.0994,0.857,0.0226,0.158,0.926,0.31,-7.58,139.012,4,8.8916,"A minor","53aVMHWjpz7gB2wGtAv3lD",1984
+"Metallica","Master Of Puppets ",1,"Battery",0.0672,0.558,0.00022,0.427,0.928,0.481,-8.799,96.699,4,5.206,"B minor","6UB9mShVLbMm0W4e6vud4C",1986
+"Metallica","Master Of Puppets ",2,"Master Of Puppets",0.0353,0.431,0.000647,0.56,0.836,0.543,-9.11,105.173,4,8.5898,"E minor","2MuWTIM3b0YEAskbeeFE1i",1986
+"Metallica","Master Of Puppets ",3,"The Thing That Should Not Be",0.032,0.354,0.000116,0.445,0.719,0.679,-10.134,111.792,4,6.6018,"A major","7vFC68CBMKu99p4tIz6yzx",1986
+"Metallica","Master Of Puppets ",4,"Welcome Home (Sanitarium)",0.0329,0.101,0.000324,0.42,0.766,0.306,-9.693,96.668,4,6.4524,"C major","4TktvZTsMoFukiim1otMtr",1986
+"Metallica","Master Of Puppets ",5,"Disposable Heroes",0.0919,0.468,4.27e-05,0.427,0.931,0.292,-7.618,90.61,4,8.2771,"E minor","4tPHBRIPsB55nssjvKDbjj",1986
+"Metallica","Master Of Puppets ",6,"Leper Messiah",0.0684,0.794,5.23e-05,0.557,0.808,0.379,-8.605,138.694,4,5.6647,"E major","6XN00D9ejjEt1cW1sY44Gu",1986
+"Metallica","Master Of Puppets ",7,"Orion",0.0386,0.892,0.00142,0.4,0.67,0.365,-10.014,128.488,4,8.4538,"A major","2HD5BWFthrNf2uFyEhi53d",1986
+"Metallica","Master Of Puppets ",8,"Damage, Inc.",0.167,0.466,0.000467,0.143,0.848,0.326,-10.567,91.671,4,5.5411,"B minor","3n7b078PcVbHhUaYhBWIgZ",1986
+"Metallica","...And Justice For All",1,"Blackened",0.123,0.00202,6.22e-05,0.499,0.802,0.445,-8.965,129.037,4,6.6769,"E minor","0Tp7uSZK21LZTbZRBNb9ud",1988
+"Metallica","...And Justice For All",2,"...And Justice For All",0.128,0.0955,0.000105,0.409,0.799,0.547,-7.47,86.634,4,9.7751,"A major","0eXz8pS25MoeUguNPR9VvD",1988
+"Metallica","...And Justice For All",3,"Eye Of The Beholder",0.0434,0.00306,0.00206,0.584,0.798,0.65,-9.242,122.024,4,6.5004,"D major","7p2yIOf8YXJUSmUnG3TAWr",1988
+"Metallica","...And Justice For All",4,"One",0.0617,0.0857,0.00111,0.413,0.695,0.437,-9.447,102.178,3,7.4573,"G major","5IX4TbIR5mMHGE4wiWwKW0",1988
+"Metallica","...And Justice For All",5,"The Shortest Straw",0.116,0.0285,7.29e-05,0.601,0.885,0.446,-8.661,142.467,4,6.5993,"A major","2Aqz0jTeEsS6DZbQYqHRGh",1988
+"Metallica","...And Justice For All",6,"Harvester Of Sorrow",0.0397,0.0771,0.000207,0.643,0.842,0.658,-8.851,93.115,4,5.7618,"E minor","1V3wAgMB4ESaN4rStlrUNz",1988
+"Metallica","...And Justice For All",7,"The Frayed Ends Of Sanity",0.0482,0.0265,6.81e-05,0.682,0.872,0.444,-9.057,94.323,4,7.7333,"E minor","5LnIyDJU1d1dDlsbhZq60l",1988
+"Metallica","...And Justice For All",8,"To Live Is To Die",0.0425,0.822,0.000309,0.355,0.604,0.44,-9.646,104.586,4,9.8156,"B minor","6jv5Og00Okb2IMEHuzNTkV",1988
+"Metallica","...And Justice For All",9,"Dyers Eve",0.054,0.0165,2.03e-05,0.686,0.936,0.455,-8.467,96.427,4,5.2227,"B minor","2517AuTvR5dMxc7IKG1ThD",1988
+"Metallica","Metallica",1,"Enter Sandman",0.0298,0.0114,0.00213,0.604,0.828,0.577,-8.691,123.257,4,5.5211,"F# minor","5sICkBXVmaCQk5aISGR3x1",1991
+"Metallica","Metallica",2,"Sad But True",0.0337,0.00139,0.000819,0.448,0.846,0.633,-6.347,89.23,4,5.3989,"G major","1PhLYngBKbeDtdmDzCg3Pb",1991
+"Metallica","Metallica",3,"Holier Than Thou",0.0381,0.528,0.000322,0.315,0.956,0.471,-6.25,172.15,4,3.794,"F major","5YMJoplBWvIa2LHUPoGqb5",1991
+"Metallica","Metallica",4,"The Unforgiven",0.0254,0.00296,0.0108,0.244,0.584,0.54,-9.579,139.261,4,6.4416,"G major","4aYLAF6ckQ5ooGGGM7sWAa",1991
+"Metallica","Metallica",5,"Wherever I May Roam",0.0347,0.00115,0.000362,0.332,0.824,0.55,-7.848,131.387,4,6.7311,"A minor","22GbAGb80ZZNgm2yrBMnpR",1991
+"Metallica","Metallica",6,"Don't Tread On Me",0.0411,0.00538,0.00546,0.689,0.835,0.677,-7.627,108.003,4,4.0056,"E minor","2b7r6fN91KiHnp00aqHZ7x",1991
+"Metallica","Metallica",7,"Through The Never",0.0413,0.464,0.00583,0.517,0.931,0.394,-6.762,94.004,4,4.0484,"E minor","2VAQuXC01B2eJAEnkjIj7z",1991
+"Metallica","Metallica",8,"Nothing Else Matters",0.0263,6.01e-06,0.0458,0.158,0.362,0.553,-11.218,142.352,3,6.4711,"E minor","0nLiqZ6A27jJri2VCalIUs",1991
+"Metallica","Metallica",9,"Of Wolf And Man",0.0356,0.0338,0.00106,0.493,0.749,0.626,-7.746,121.776,4,4.2756,"F major","2J8jdenoxkPXs44G9xcncc",1991
+"Metallica","Metallica",10,"The God That Failed",0.0402,0.000276,0.000327,0.44,0.798,0.536,-6.531,82.99,4,5.1422,"G# major","7tyc1pcOE4FOVIQTBzvxeF",1991
+"Metallica","Metallica",11,"My Friend Of Misery",0.0345,0.0167,0.000283,0.394,0.819,0.582,-8.092,119.513,4,6.7962,"A minor","0R9GrbRcpBRdwDlVPj2wEQ",1991
+"Metallica","Metallica",12,"The Struggle Within",0.0533,0.0449,0.00056,0.53,0.931,0.488,-7.349,98.868,4,3.8984,"F# minor","4R4uSnvRFeVdLQcX2zj8aU",1991
+"Metallica","Load",1,"Ain't My Bitch",0.0314,0.0522,2.23e-05,0.442,0.903,0.426,-4.535,157.825,4,5.0733,"A# minor","3QWzxUE2WA5WoSi82KCODk",1996
+"Metallica","Load",2,"2 X 4",0.0345,0.00857,4.57e-06,0.673,0.907,0.512,-4.432,115.217,4,5.47,"C# minor","0SwHR5lvAfgI8Z2D6YgvMd",1996
+"Metallica","Load",3,"The House That Jack Built",0.0307,0.00341,1.81e-05,0.286,0.859,0.478,-5.347,94.437,4,6.6478,"E major","2UmXstEJ8nkpUUfQRYieC6",1996
+"Metallica","Load",4,"Until It Sleeps",0.0297,0.0714,0.000248,0.719,0.92,0.568,-4.434,113.394,4,4.4656,"G# minor","2Iv4HSoMX2fDeXFcOJWyWX",1996
+"Metallica","Load",5,"King Nothing",0.0377,0.00755,8.39e-05,0.364,0.907,0.527,-5.772,112.089,4,5.496,"G# major","30RKGpKHqr7ytcTljw436k",1996
+"Metallica","Load",6,"Hero Of The Day",0.0357,0.0425,8.82e-05,0.78,0.902,0.35,-7.125,115.909,4,4.3651,"G# major","0rDPQzWWmLTv9deHn4ulG7",1996
+"Metallica","Load",7,"Bleeding Me",0.0324,0.0305,0.000994,0.225,0.762,0.393,-6.072,117.115,4,8.2989,"C# major","7FLm43IriB4jxAposCv9Ji",1996
+"Metallica","Load",8,"Cure",0.0273,0.000576,2.63e-05,0.792,0.848,0.61,-5.46,115.262,4,4.9049,"G# major","3SLjisy5GM8Wx3oOz7Nfs3",1996
+"Metallica","Load",9,"Poor Twisted Me",0.0749,0.0414,8.75e-05,0.432,0.92,0.485,-4.811,118.138,4,4.0,"C# major","2lOP1kfyJHY6palBs5QuLU",1996
+"Metallica","Load",10,"Wasting My Hate",0.0421,0.0283,9.49e-05,0.506,0.921,0.521,-5.73,81.476,4,3.954,"G# major","3FkyxKotYLTeM2LJu1x2gU",1996
+"Metallica","Load",11,"Mama Said",0.0317,0.000849,0.0171,0.391,0.504,0.448,-7.749,135.254,4,5.3282,"G# minor","3dWNUqrgkQakv9fj5epwPK",1996
+"Metallica","Load",12,"Thorn Within",0.0288,0.309,2.24e-05,0.646,0.889,0.545,-5.89,117.655,4,5.8611,"A# minor","1AUniKVKOViJ5IKpoSUx52",1996
+"Metallica","Load",13,"Ronnie",0.0338,0.00306,0.0011,0.612,0.911,0.554,-5.464,84.474,4,5.2856,"C# major","1jSWsQN5YeFnY8nmMsAohO",1996
+"Metallica","Load",14,"The Outlaw Torn",0.0316,0.0584,0.000246,0.445,0.724,0.619,-6.783,118.509,4,9.8111,"C# major","4mm2PAEpJqPEHNtMrHZo1s",1996
+"Metallica","Reload",1,"Fuel",0.0477,0.0027,2.02e-05,0.589,0.951,0.49,-3.777,106.946,4,4.4967,"C# major","6FUwPb4mGlUDbx42uspXaZ",1997
+"Metallica","Reload",2,"The Memory Remains",0.0429,0.0072,0.000303,0.547,0.901,0.435,-3.694,143.646,4,4.6529,"A# minor","6RbC38oDCIXD8V2AOU1Tjr",1997
+"Metallica","Reload",3,"Devil's Dance",0.0327,0.146,4.04e-05,0.477,0.792,0.611,-4.836,92.609,4,5.316,"C minor","3IHyDrQOASm7R0WBamMJO8",1997
+"Metallica","Reload",4,"The Unforgiven II",0.0445,0.00129,0.00055,0.249,0.89,0.497,-4.559,133.047,4,6.6073,"G# minor","6nswV1Lz3OZkaiCJfmVUOa",1997
+"Metallica","Reload",5,"Better Than You",0.0566,0.476,3.87e-05,0.443,0.964,0.43,-5.465,156.59,4,5.36,"C# major","6FAHGDSq8RDfHXIk3DSZdb",1997
+"Metallica","Reload",6,"Slither",0.0345,0.00882,3.7e-05,0.546,0.851,0.509,-3.84,110.364,4,5.22,"G# major","1R29PfqelwVMRPhg5fn0lD",1997
+"Metallica","Reload",7,"Carpe Diem Baby",0.0341,0.104,1.12e-05,0.515,0.865,0.394,-5.338,142.77,4,6.2033,"D# minor","4Cqn0tBcozdKfdengvZJv4",1997
+"Metallica","Reload",8,"Bad Seed",0.0424,0.0111,2.44e-05,0.727,0.952,0.532,-4.191,126.917,4,4.0889,"F# major","0cKWKhciVCYNyxFVnV1Y4R",1997
+"Metallica","Reload",9,"Where The Wild Things Are",0.0472,0.0211,0.000352,0.152,0.887,0.456,-4.788,92.193,4,6.8827,"B major","2bvG8hQhJDe68NEBM8XjXc",1997
+"Metallica","Reload",10,"Prince Charming",0.0488,0.000661,1.89e-05,0.453,0.978,0.54,-3.687,99.827,4,6.0849,"D# minor","6ax1qtm74zcC2eS8l0SLGX",1997
+"Metallica","Reload",11,"Low Man's Lyric",0.0271,0.00029,0.00273,0.151,0.685,0.463,-6.126,130.898,3,7.6038,"C# major","7tZckbBO3wtatBWne8YbcM",1997
+"Metallica","Reload",12,"Attitude",0.0538,0.00398,1.22e-05,0.614,0.974,0.458,-4.35,155.445,4,5.2756,"C# major","3VNkUPHPgC34Zk7TnikPtX",1997
+"Metallica","Reload",13,"Fixxxer",0.0438,0.000507,0.000143,0.403,0.836,0.484,-4.658,132.937,4,8.2462,"C# major","5jE2hljNVTJZeodUXQu9Ea",1997
+"Metallica","St. Anger",1,"Frantic",0.0892,0.17,0.00608,0.571,0.977,0.482,-3.091,161.818,4,5.8393,"C major","2J3XzDLjbXkny8qhr33zTh",2003
+"Metallica","St. Anger",2,"St. Anger",0.0477,0.0179,0.00115,0.443,0.947,0.396,-2.652,93.043,4,7.3522,"D minor","5JAnXx5BBES4FEf4d4t4CC",2003
+"Metallica","St. Anger",3,"Some Kind Of Monster",0.0516,0.208,0.000493,0.641,0.938,0.333,-5.215,104.817,4,8.4255,"C major","4hjTm9cn9ZPwfKnbyW6frn",2003
+"Metallica","St. Anger",4,"Dirty Window",0.0827,9.02e-05,0.0103,0.445,0.978,0.369,-4.246,127.607,4,5.4151,"C# major","6xFoN6e5B9DTw6aV6yT3KF",2003
+"Metallica","St. Anger",5,"Invisible Kid",0.0851,0.326,0.00641,0.377,0.988,0.49,-5.229,157.47,4,8.5015,"C# major","105mv6XqVQMEUVfPkIeAQh",2003
+"Metallica","St. Anger",6,"My World",0.0742,0.00585,0.00198,0.388,0.982,0.525,-4.447,99.421,4,5.7589,"C major","3zG3x7RA9DjR7a9JMNWv1N",2003
+"Metallica","St. Anger",7,"Shoot Me Again",0.0813,0.0139,0.000714,0.337,0.926,0.551,-4.301,111.367,4,7.1684,"G# major","6ATqmUzk4xbq3XpVsZMPW5",2003
+"Metallica","St. Anger",8,"Sweet Amber",0.0664,7.64e-05,0.00129,0.394,0.911,0.471,-5.373,93.262,4,5.4522,"G minor","0nP2Se8dSKsdOkg6XEee60",2003
+"Metallica","St. Anger",9,"The Unnamed Feeling",0.066,0.00447,0.000794,0.433,0.907,0.469,-5.239,140.328,4,7.1315,"C minor","2lJhUIQR7CYQZD6tyl3aF0",2003
+"Metallica","St. Anger",10,"Purify",0.0668,0.00664,0.00221,0.254,0.987,0.497,-3.104,105.526,3,5.2322,"C major","7ucFoRbiHn7SOVfHFHRjbE",2003
+"Metallica","St. Anger",11,"All Within My Hands",0.0893,0.00347,0.00398,0.294,0.965,0.552,-4.515,105.821,4,8.7982,"F minor","61MvWKeLK4tjdSuuB8y8B8",2003
+"Metallica","Death Magnetic",1,"That Was Just Your Life",0.0936,0.00154,0.000502,0.344,0.989,0.247,-4.401,189.929,4,7.1387,"F major","2EEzTxM4MMjTuDG146TK3G",2008
+"Metallica","Death Magnetic",2,"The End Of The Line",0.083,0.00096,0.000122,0.2,0.974,0.337,-4.516,107.176,4,7.8727,"B minor","62qcKV45EjiFwEk074P9Mk",2008
+"Metallica","Death Magnetic",3,"Broken, Beat & Scarred",0.0789,0.0154,5.55e-05,0.519,0.974,0.321,-2.792,121.567,4,6.4244,"A major","3BVJ1nwvdmYjXJ7gBTXTGX",2008
+"Metallica","Death Magnetic",4,"The Day That Never Comes",0.0619,0.149,9.11e-05,0.501,0.982,0.334,-2.293,126.883,4,7.9378,"E minor","13Uvqll8OQDjw3wDweIK9y",2008
+"Metallica","Death Magnetic",5,"All Nightmare Long",0.114,0.00106,0.00067,0.342,0.974,0.268,-2.948,182.095,4,7.9504,"A major","3e7wv9TChjWrnXHrk5NyBU",2008
+"Metallica","Death Magnetic",6,"Cyanide",0.0731,0.000747,0.000108,0.498,0.985,0.313,-2.603,129.778,4,6.6591,"B minor","2PSXyiERCaNmRyFA06UMjq",2008
+"Metallica","Death Magnetic",7,"The Unforgiven III",0.0344,3.75e-06,0.00196,0.103,0.692,0.297,-5.625,121.52,4,7.7764,"E minor","0qbV4e18lWrTTxlswVoLbI",2008
+"Metallica","Death Magnetic",8,"The Judas Kiss",0.0816,0.0177,0.000806,0.503,0.96,0.323,-2.712,179.341,4,8.0127,"E minor","09VNOLsjKwQasQXhsS8sRA",2008
+"Metallica","Death Magnetic",9,"Suicide & Redemption",0.067,0.835,4.69e-05,0.41,0.928,0.254,-4.357,164.351,4,9.962,"E minor","2VTJaQNkvxU4S2zjkVJirF",2008
+"Metallica","Death Magnetic",10,"My Apocalypse",0.184,0.00452,0.000139,0.266,0.988,0.265,-2.934,200.091,4,5.0171,"C major","7MtBapy0MnmBVsU3o0yrFz",2008
+"Metallica","Hardwired…To Self-Destruct",1,"Confusion",0.0639,0.0344,2.94e-05,0.35,0.99,0.447,-3.752,122.288,4,6.6871,"E major","3m8zeHjUKHDVHbx5JmS2qx",2016
+"Metallica","Hardwired…To Self-Destruct",1,"Hardwired",0.0582,0.00362,1.11e-05,0.53,0.991,0.128,-3.289,186.124,4,3.1558,"B major","10qHfyQqzsbBDwob8nk8Ol",2016
+"Metallica","Hardwired…To Self-Destruct",2,"ManUNkind",0.0468,0.0051,2.25e-05,0.353,0.937,0.299,-4.375,136.079,4,6.9267,"E minor","4IuzY8RNrCGPIchltRMWzz",2016
+"Metallica","Hardwired…To Self-Destruct",2,"Atlas, Rise!",0.0609,0.0299,2.93e-05,0.434,0.994,0.416,-3.354,95.205,4,6.4771,"E minor","6fjer7Ed6ZUna1EMbwbDrN",2016
+"Metallica","Hardwired…To Self-Destruct",3,"Here Comes Revenge",0.0688,0.122,6.57e-05,0.305,0.98,0.496,-4.049,131.691,4,7.2938,"F# minor","4Ixe61Sv0WlxBhDjRtEgH3",2016
+"Metallica","Hardwired…To Self-Destruct",3,"Now That We’re Dead",0.0464,0.099,9.24e-05,0.331,0.949,0.565,-3.828,128.303,4,6.9846,"D major","2NBvvx52QAjipBnXvAekfs",2016
+"Metallica","Hardwired…To Self-Destruct",4,"Am I Savage?",0.0485,0.000882,2.15e-05,0.242,0.943,0.327,-3.898,144.016,4,6.4944,"C major","5EA75qDylWv25sjzyM1BOa",2016
+"Metallica","Hardwired…To Self-Destruct",4,"Moth Into Flame",0.0591,0.0052,3.64e-05,0.369,0.977,0.163,-3.585,178.44,4,5.8441,"E minor","3JjZq20Kv6UphyyirAaY9A",2016
+"Metallica","Hardwired…To Self-Destruct",5,"Murder One",0.0406,0.00252,2.18e-05,0.34,0.948,0.456,-3.595,107.516,4,5.7546,"F# major","1CNCFVas53ePcTa6xjMhoF",2016
+"Metallica","Hardwired…To Self-Destruct",5,"Dream No More",0.0577,0.00404,6.26e-05,0.299,0.944,0.509,-3.698,97.505,4,6.4933,"G major","1dzmb0UZZatm5VCD8fI8UF",2016
+"Metallica","Hardwired…To Self-Destruct",6,"Spit Out The Bone",0.0875,0.0559,9.07e-06,0.454,0.987,0.154,-3.951,168.127,4,7.1533,"A major","3eB1b4DL6O9TMOksOYg83l",2016
+"Metallica","Hardwired…To Self-Destruct",6,"Halo On Fire",0.0504,0.00437,1.43e-05,0.21,0.936,0.323,-3.514,126.367,4,8.2503,"E minor","0dcFoXAFWxx7oSIIq2mtkW",2016
